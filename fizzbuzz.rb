@@ -5,7 +5,6 @@ elsif int% 5 == 0
   "Buzz"
 elsif int% 5 == 0 && 3 == 0 || int == 15
   "FizzBuzz"
-elsif int == 15
 else
 end
 end
